@@ -1,5 +1,7 @@
 let timerInterval;
 let timerRemaining;
+const timerEndSound = new Audio('alarm.wav');
+
 
 function startTimer(seconds){
     clearInterval(timerInterval);
@@ -12,6 +14,8 @@ function startTimer(seconds){
 
         if(timerRemaining <= 0){
             clearInterval(timerInterval);
+            
+            timerEndSound.play();
             alert("Egg's ready!");
         }
     }, 1000);
