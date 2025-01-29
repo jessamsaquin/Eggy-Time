@@ -32,4 +32,4 @@ function cancelTimer(){
 document.getElementById("soft-boiled").addEventListener("click", () => startTimer(240));
 document.getElementById("medium-boiled").addEventListener("click", () => startTimer(420)); 
 document.getElementById("hard-boiled").addEventListener("click", () => startTimer(720));
-document.getElementById("cancel").addEventListener("click", cancelTimer) ;
+document.getElementById("timer").addEventListener("click", cancelTimer) ;
