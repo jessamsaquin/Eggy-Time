@@ -5,6 +5,10 @@ A simple egg timer built with HTML and JavaScript that helps you cook eggs perfe
 ## Live Demo:
 https://jessamsaquin.github.io/Eggy-Time/
 
+## Screenshots:
+<img src="web.png" alt="Egg Timer Screenshot" width="400">
+<img src="phone.png" alt="Egg Timer Screenshot" height="300">
+
 ## Features:
 - **Soft-boiled Timer**: Set for 4 minutes, ideal for a runny yolk and slightly firm white.
 - **Medium-boiled Timer**: Set for 7 minutes, perfect for a creamy yolk and firm white.
