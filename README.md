@@ -13,3 +13,9 @@ A simple egg timer built with HTML and JavaScript that helps you cook eggs perfe
 ## Technologies:
 - HTML
 - JavaScript
+
+## Credits
+
+- **Google Fonts**: [Bagel Fat One](https://fonts.google.com/specimen/Bagel+Fat+One) for the font used in this project.
+- **CSS Tricks**: For the [Text Animation](https://codepen.io/Juxtopposed/pen/OJrLZvb).
+
